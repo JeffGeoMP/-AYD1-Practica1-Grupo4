@@ -11,3 +11,14 @@ function IsPalindrome(word) {
     }
     return InputBuffer.toLowerCase() == ReverseBuffer.toLowerCase() ? true : false
 }   
+
+/**
+ * @description Jefferson Geovanny Moreno Perez
+ */
+function FindHigher(val1, val2){
+    if(val2>val1){
+        return val2
+    }else{
+        return val1
+    }
+}
