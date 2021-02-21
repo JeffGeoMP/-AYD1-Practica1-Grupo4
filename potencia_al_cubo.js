@@ -1,4 +1,5 @@
 //201700529
+//Bugfix
 function potencia_al_cubo(numero){
     return Math.pow(numero, 3);
 }
